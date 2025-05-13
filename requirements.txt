@@ -1,0 +1,6 @@
+numpy
+nibabel
+matplotlib
+tqdm
+python-dotenv
+huggingface_hub

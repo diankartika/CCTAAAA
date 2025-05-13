@@ -1,1 +1,5 @@
 .env
+*.npy
+__pycache__/
+.cache/
+.temp/
